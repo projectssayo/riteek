@@ -70,9 +70,13 @@ short recap:-
 
 
 mkdir my_flapy_bird
+
 cd my_flapy_bird
+
 python -m venv myvenv
+
 myvenv\Scripts\activate
+
 pip install pygame
 
 -----------------------------------------------------------
